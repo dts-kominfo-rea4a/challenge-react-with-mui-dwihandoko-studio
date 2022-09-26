@@ -41,3 +41,26 @@ body {
     transform: rotate(360deg);
   }
 }
+
+.Custom-container {
+  padding: 40px 0;
+}
+
+.Custom-contact-list {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.Custom-img-contact-list {
+  border-radius: 50%;
+  margin-right: 40px;
+}
+
+.Custom-content-contact-list {
+  text-align: left;
+}
+
+.Mb-2 {
+  margin-bottom: 10px !important;
+}
